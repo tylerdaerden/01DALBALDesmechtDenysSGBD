@@ -1,0 +1,1 @@
+22.10.2024 : Refactoring total du projet , localisation problématique et avec ambiguité sur dossier précddent , fonctionnel à 90 % dois juste faire une dernière adaptation mais suis parti jusque vendredi malheureusement
